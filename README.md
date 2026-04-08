@@ -20,7 +20,6 @@ It can answer both general questions and data-related queries.
 ## 📂 Files
 - day12.py → Main chatbot system
 - students.csv → Dataset
-- requirements.txt → Dependencies
 
 ## ▶️ How to Run
 1. Install dependencies:
